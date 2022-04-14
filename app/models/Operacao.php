@@ -2,7 +2,7 @@
 namespace app\models;
     Class Operacao{
         public function somar($a, $b){
-            
+            return $a + $b;
         }
         public function multiplicar($a, $b){
 
